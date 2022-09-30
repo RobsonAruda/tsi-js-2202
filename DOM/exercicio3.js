@@ -1,3 +1,5 @@
+//formas de buscar os atributos de cada local
+
 let e;
 
 //e = document.head;
@@ -15,4 +17,5 @@ let e;
 //e = document.links;
 e = document.querySelector('li:nth-child(3)')innerText;
 
+// vai imprimir aqui na tela 
 console.log(e);
