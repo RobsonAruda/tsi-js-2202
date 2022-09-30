@@ -14,11 +14,11 @@ vetor.forEach(function(val) {
 console.log();
 
 
-
+//Seleciona cada elemento de pela como se fosse busncado algo pelo ad no css/comparação 
 
 // Com QuerySelecAll
 e =  document.querySelectorAll('li');
-
+//ele permiti que execute uma ação para cada item.
 e.forEach(function(val){
 
     console.log(val.innerText);
