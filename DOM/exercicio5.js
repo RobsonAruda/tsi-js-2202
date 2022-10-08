@@ -36,7 +36,6 @@ novoItemNaLista.appendChild(elementoAncora)
 
 //como captura i <ul> com querySelector
 //let elementoUele = document.querySelector('ul.collection');
-
 //Como capturar i <ul> pela classe
 let elementoUele =  document.getElementsByClassName('collection');
 
