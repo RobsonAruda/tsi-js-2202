@@ -1,1 +1,7 @@
-Olá mundo!
+[{
+    "nome": "João Carlos",
+    "idade": 35,
+}, {
+    ["nome": "João Carlos", 
+    "idade": 35],
+}]
